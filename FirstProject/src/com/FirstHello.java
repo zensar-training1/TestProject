@@ -6,5 +6,9 @@ public class FirstHello {
 		System.out.println("First Hello");
 
 	}
+	
+	public static void message() {
+		System.out.println("This is another message");
+	}
 
 }
