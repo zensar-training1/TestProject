@@ -9,6 +9,7 @@ public class FirstHello {
 	
 	public static void message() {
 		System.out.println("This is another message");
+		
 	}
 
 }
